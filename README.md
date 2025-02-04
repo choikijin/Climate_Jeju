@@ -7,9 +7,8 @@
    <ul style= 'list-style-type:disc'>
        <li> code</li>
            <ul style='list-style-type:disc'; list-style-position:inside'>
-               <pre>    
-                        The temperature and relative humidity of Jeju Island from 2017 to 2021 is in 'Env_Jeju.csv'. These data are downloaded from the Korea Meteorological Administration(KMA) "Open MET Data Portal" (https://data.kma.go.kr/cmmn/main.do).
-                </pre>
+           <li> The temperature and relative humidity of Jeju Island from 2017 to 2021 is in 'Env_Jeju.csv'. These data are downloaded from the Korea Meteorological Administration(KMA) "Open MET Data Portal" (https://data.kma.go.kr/cmmn/main.do).</li>
+
        <li> data</li>
         
     
