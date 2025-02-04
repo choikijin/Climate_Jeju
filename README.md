@@ -11,7 +11,7 @@
            <li> The SFTS incidence per 100,000 population was accessed from publicly available sources at the Korea Disease Control and Prevention Agency "Infectious Disease Data Portal" (https://dportal.kdca.go.kr/pot/index.do). </li>
            <li> The projection by SSP scenarios can be provided upon request from the Korea Meteorological Administration(KMA) Climate Information Portal (http://www.climate.go.kr/home/).  </li>
     <ul style= 'list-style-type:disc'>
-       <li> data</li>
+<li> data</li>
         
     
 
